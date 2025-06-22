@@ -36,15 +36,11 @@ Data is parsed and displayed in a clean format
 Clone this repo
 
 bash
-Copy
-Edit
 git clone https://github.com/yourusername/weather-app.git
 cd weather-app
 Install dependencies
 
 bash
-Copy
-Edit
 pip install requests
 Add your API key (from OpenWeatherMap) in the script
 
@@ -55,21 +51,20 @@ api_key = "your_api_key"
 Run the app
 
 bash
-Copy
-Edit
 python weather_app.py
+
+
 📌 Sample Output (CLI Version)
 vbnet
-Copy
-Edit
+
 City: New York
 Temperature: 18.3°C
 Condition: Light rain
 Humidity: 82%
 Wind Speed: 5.1 m/s
+
 📁 Project Structure
-Copy
-Edit
+
 ├── weather_app.py
 ├── README.md
 └── requirements.txt
