@@ -45,8 +45,6 @@ pip install requests
 Add your API key (from OpenWeatherMap) in the script
 
 python
-Copy
-Edit
 api_key = "your_api_key"
 Run the app
 
@@ -66,5 +64,7 @@ Wind Speed: 5.1 m/s
 📁 Project Structure
 
 ├── weather_app.py
+
 ├── README.md
+
 └── requirements.txt
